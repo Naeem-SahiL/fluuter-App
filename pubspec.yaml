@@ -89,6 +89,9 @@ flutter:
     - family: SFProRoundedBold
       fonts:
         - asset: fonts/SF-Pro-Rounded-Bold.ttf
+    - family: SFProRoundedSemibold
+      fonts:
+        - asset: fonts/SF-Pro-Rounded-Semibold.ttf
           
           # style: regular
   #   - family: Trajan Pro
